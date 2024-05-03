@@ -1,0 +1,22 @@
+main {
+    height: 700px;
+    max-width: 1100px;
+    background-color: rgb(2, 196, 196);
+    position: relative; /* Добавлено позиционирование */
+  }
+  
+  /*
+  main img {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
+  */
+  /*
+  main span {
+    position: absolute; /* Для размещения в правом верхнем углу */
+    top: 20px;
+    right: 20px;
+    margin-right: 20px; /* Для отступа span от края */
+  }
+   */
